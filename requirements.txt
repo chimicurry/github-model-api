@@ -1,0 +1,4 @@
+azure-ai-inference
+fastapi==0.109.1
+pydantic
+uvicorn[standard]
