@@ -11,11 +11,6 @@
 	  }
 	},
 	"customizations": {
-	  "codespaces": {
-		"openFiles": [
-		  "webapp/main.py",
-		]
-	  },
 	  "vscode": {
 		"settings": {
 		  "python.defaultInterpreterPath": "/home/vscode/venv/bin/python"
@@ -25,12 +20,6 @@
 		  "ms-python.vscode-pylance",
 		  "GitHub.copilot-chat"
 		]
-	  }
-	},
-	"portsAttributes": {
-	  "8000": {
-		"label": "Application",
-		"onAutoForward": "openPreview"
 	  }
 	},
 	"remoteUser": "vscode"
